@@ -1,2 +1,2 @@
-# laba1-Ryzhov
+# laba2-Ryzhov
 Лабораторная работа
